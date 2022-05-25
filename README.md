@@ -10,8 +10,9 @@ A Fictional &amp; Minimalist Bank
 
 | Account       | UserName | Password |
 | ------------- | -------- | -------- |
-| Admin Account | `mm`     | `1111`   |
-| Guest Account | `ar`     | `2222`   |
+| First Account | `mm`     | `1111`   |
+| Second Account | `ar`     | `2222`   |
+| Test Account | `tu`     | `1111`   |
 
 ## Description
 
